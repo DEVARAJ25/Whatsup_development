@@ -4,3 +4,4 @@ Authorname: devarajan
 2.chat screen code
 3.last seen code
 4.attachments(image,audio,video)
+5.hiding the last seen
